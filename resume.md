@@ -24,7 +24,6 @@
 ### [Improvement of Object Detection Algorithm YOLOv3](https://coreja.github.io/Schoolwork/2019/05/%E7%89%A9%E4%BD%93%E6%A3%80%E6%B5%8B%E7%AE%97%E6%B3%95YOLOv3%E7%9A%84%E6%94%B9%E8%BF%9B%E2%80%94%E2%80%94%E8%AE%BA%E6%96%87/#abstract)  <span>Feb 2019 -- Jun 2019</span>
 *Lead author of Thesis for B.E.*
 
-
 - Conducted the study of feature extraction backbone network `DarkNet-53` and feature interaction network of YOLOv3, and the implementation based on PyTorch
 - Proposed improvement ideas concerning the `prior frame` of the model YOLO layer and the network structure of `feature pyramid`. Also proposed improment ideas targeting at training dataset.
 - Implemented this improved algorithm with **58.59% mAP** (better than the original one with 35.6% mAP) on BDD100K dataset at the real-time level for detection.
