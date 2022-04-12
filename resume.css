@@ -1,7 +1,7 @@
 body {
     color: #000000;
     background: #EEEEEE;
-    font: 1.1em "Times New Roman";
+    font: 1.0em "Times New Roman";
     line-height: 1.2;
     margin: 40px 0;
 }
@@ -81,10 +81,10 @@ h1 + ul + p {
     }
     /* Make links black in PDF */
     /* Move this outside the print block to apply this in HTML too */
-    a, a:link, a:visited, a:hover {
+    /* a, a:link, a:visited, a:hover {
         color: #000000;
         text-decoration: underline;
-    }
+    } */
 }
 @page {
     /* Change margins and paper size of PDF */

@@ -1,60 +1,58 @@
-<!-- The (first) h1 will be used as the <title> of the HTML page -->
-# Richard Hendricks
+# Rui Chen
+- [i@coreja.com](mailto://i@coreja.com)
+- (202)517-3840
+- 1021 Arlington Blvd, Arlington, VA
 
-<!-- The unordered list immediately after the h1 will be formatted on a single
-line. It is intended to be used for contact details -->
-- <richard.hendriks@mail.com>
-- (912) 555-4321
-- [richardhendricks.example.com](http://richardhendricks.example.com)
-- San Francisco, CA
-
-<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
-is intended to be used for a short summary. -->
-CEO and Software Engineer with knowledge of applied information theory,
-including optimizing lossless compression schema of both the length-limited and
-adaptive variants.
-
-## Experience
-
-<!-- You have to wrap the "left" and "right" half of these headings in spans by
-hand -->
-### <span>CEO/President, Pied Piper</span> <span>Dec 2013 -- Dec 2014</span>
-
-Pied Piper is a multi-platform technology based on a proprietary universal
-compression algorithm that has consistently fielded high Weisman Scores™ that
-are not merely competitive, but approach the theoretical limit of lossless
-compression.
-
- - Build an algorithm for artist to detect if their music was violating
-   copyright infringement laws
- - Successfully won Techcrunch Disrupt
- - Optimized an algorithm that holds the current world record for Weisman Scores
-
-### <span>Teacher, CoderDojo</span> <span>July 2013 -- Dec 2013</span>
-
-Global movement of free coding clubs for young people.
-
- - Awarded 'Teacher of the Month'
-
-## Projects
-
-### <span>Miss Direction</span> <span>Aug 2016</span>
-
-A mapping engine that misguides you:
-
-   - Won award at AIHacks 2016
-   - Built by all women team of newbie programmers
-   - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
+**M.S.** student major in **Computer Science** at **Georgetown University**, looking for **Software Engineering Internship** .
 
 ## Education
+### Georgetown University, M.S. Computer Science <span>Aug 2021 -- now</span>
+- GPA: 3.67/4.0
+- Anticipated Graduation Date: **May 2023**
+### Wuhan University of Technology, B.E. Computer Science <span>Sept 2015 -- Jun 2019</span>
+- GPA: 3.74/4.0
+- 3<sup>rd</sup>-level Scholarship in Nov 2018, 2<sup>nd</sup>-level Scholarship in Nov 2017
 
-### <span>University of Oklahoma, BA Information Technology</span> <span>2011 -- 2014</span>
+## Experience
+### <span>Employee at [CMB YunChuang Technology](http://cmbyc.com)</span> <span>Oct 2020 -- May 2021</span>
+*Data Development Engineer*
 
-  - GPA 4.0
-  - DB1101 - Basic SQL
-  - CS2011 - Java Introduction
+- Developed and maintained database (MySQL mainly)
+- Exporting report forms from databases
+- Developed back-end program of a web project called Cloud Map using Django (at Demo phrase)
 
-## Skills
+### [Improvement of Object Detection Algorithm YOLOv3](https://coreja.github.io/Schoolwork/2019/05/%E7%89%A9%E4%BD%93%E6%A3%80%E6%B5%8B%E7%AE%97%E6%B3%95YOLOv3%E7%9A%84%E6%94%B9%E8%BF%9B%E2%80%94%E2%80%94%E8%AE%BA%E6%96%87/#abstract)  <span>Feb 2019 -- Jun 2019</span>
+*Lead author of Thesis for B.E.*
 
- - Web development: HTML, CSS, JavaScript
- - Compression: Mpeg, MP4, GIF
+- Conducted the study of feature extraction backbone network `DarkNet-53` and feature interaction network of YOLOv3, and the implementation based on PyTorch
+- Proposed improvement ideas concerning the `prior frame` of the model YOLO layer and the network structure of `feature pyramid`. Also proposed improment ideas targeting at training dataset.
+- Implemented this improved algorithm with **58.59% mAP** (better than the original one with 35.6% mAP) on BDD100K dataset at the real-time level for detection.
+
+### Internet news classification and recommendation system <span>Mar 2018 -- Aug 2018</span>
+*Team Leader*
+
+- Constructed a character-level CNN news classification model 
+- Crawled five billion new data and vectorized the text data
+- Trained the model and achieving a classification accuracy of 90%
+- Designed and developed database, web back-end, and front-end interaction via comprehensive implementation of spring boot, redis and mongoDB
+- Fulfilled the system based on big data platform with group and became one of the five National 1st Prize winning groups in the Software Service Outsourcing
+
+### Book recommendation system based on book review content <span>Mar 2018 -- Feb 2019</span>
+*Team Leader*
+
+- Pre-processed data regarding text segmentation, de-stopping words, etc.
+- Trained tag library word embedding model with word2vec (Chinese Wikipedia corpus)
+- Extracted book review keywords using tf-idf and contributed to the design of tag sets and the algorithm calculating correlation between tag sets
+- Developed the system “Shu Yun”, applied for an invention patent, and approved as a National level project
+- Submitted to the 1st “Big Data Innovation” competition and won the 2nd Class Prize
+- Applied for a National Invention Patent (Application No.# 201910109797.1)
+
+### A research on a consumer review utility model <span>Mar 2017 -- Feb 2018</span>
+*Team Leader*
+
+- Assumed the Group Leader and coordinated the group’s work throughout the project
+- Determined four review evaluation dimensions of timeliness, length, sentiment analysis, and product attributes
+- Calculated emotional intensity based on sentiment vocabulary
+- Obtained product attributes via training word embedding model with word2vec and extracting top 10 keywords with tf-idf
+- Quantified features according to number of feature words and used as input into fuzzy hierarchical comprehensive evaluation model
+- Trained model with supervised learning mode and approved as a University-level project
