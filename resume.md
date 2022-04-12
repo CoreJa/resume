@@ -3,18 +3,18 @@
 - (202)517-3840
 - 1021 Arlington Blvd, Arlington, VA
 
-**M.S.** student major in **Computer Science** at **Georgetown University**, looking for **Software Engineering Internship** .
+**M.S.** student major in **Computer Science** at **Georgetown University**, looking for **Software Engineering Internship**.
 
 ## Education
-### Georgetown University, M.S. Computer Science <span>Aug 2021 -- now</span>
+### Georgetown University <span>M.S. Computer Science</span> <span>Aug 2021 -- now</span>
 - GPA: 3.67/4.0
 - Anticipated Graduation Date: **May 2023**
-### Wuhan University of Technology, B.E. Computer Science <span>Sept 2015 -- Jun 2019</span>
+
+### Wuhan University of Technology <span>B.E. Computer Science and Technology</span> <span>Sept 2015 -- Jun 2019</span>
 - GPA: 3.74/4.0
 - 3<sup>rd</sup>-level Scholarship in Nov 2018, 2<sup>nd</sup>-level Scholarship in Nov 2017
 
 ## Off-Campus Experience
-
 ### <span>Employee at [CMB YunChuang Technology](http://cmbyc.com)</span> <span>Oct 2020 -- May 2021</span>
 *Data Development Engineer*
 
