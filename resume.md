@@ -3,7 +3,7 @@
 - (202)517-3840
 - 1021 Arlington Blvd, Arlington, VA
 
-**M.S.** student major in **Computer Science** at **Georgetown University**, looking for **Software Engineering/Data Science Internship**.
+**Computer Science** **M.S.** student at **Georgetown University**, looking for **Software Engineering/Data Science Internship**.
 
 ## Education
 ### Georgetown University <span>M.S. Computer Science</span> <span>Aug 2021 -- now</span>
@@ -13,20 +13,6 @@
 ### Wuhan University of Technology <span>B.E. Computer Science and Technology</span> <span>Sept 2015 -- Jun 2019</span>
 - GPA: 3.74/4.0
 - 3<sup>rd</sup>-level Scholarship in Nov 2018, 2<sup>nd</sup>-level Scholarship in Nov 2017
-
-## Work Experience
-### [CMB YunChuang Information Technology Co., LTD](http://cmbyc.com)  <span>Oct 2020 -- May 2021</span>
-***Data Development Engineer* | Wuhan, China**
-
-- Developed scripts to export daily/monthly/yearly forms from bank transactions.
-- Developed `DAO` part of a demo phrase system "Cloud Map" using `Django` based on graph database  `Neo4j` and `Nebula Graph`.
-
-### [Wuhan Little Times Media Co. LTD](http://Littlecn.com) <span>July 2018 -- Aug 2018</span>
-***Back-end Engineer(Full-time Internship)* | Wuhan, China**
-
-- Developed a C2C web platform for help-yourself Electrocardiogram(or ECG) test based on `spring` and `mysql` that contains 2 roles: doctors and patients.
-- Developed user system, order system and devices management for different roles separately.
-- Developed requests maker to fetch data from ECG self-testing devices based on `okhttp3`.
 
 ## On-Campus Experience 
 ### [ToyDB: Implementation of Relational Database Management System](https://github.com/CoreJa/ToyDB) <span>Feb 2022 -- May 2022</span>
@@ -69,3 +55,21 @@
 - Developed the system “Shu Yun”, applied for an invention patent(Application No.# 201910109797.1), and approved as a National level project
 - Submitted to the 1st “Big Data Innovation” competition and won the 2nd Class Prize
 
+## Work Experience
+### [CMB YunChuang Information Technology Co., LTD](http://cmbyc.com)  <span>Oct 2020 -- May 2021</span>
+***Data Development Engineer* | Wuhan, China**
+
+- Developed scripts to export daily/monthly/yearly forms from bank transactions.
+- Developed `DAO` part of a demo phrase system "Cloud Map" using `Django` based on graph database  `Neo4j` and `Nebula Graph`.
+
+### [Wuhan Little Times Media Co. LTD](http://Littlecn.com) <span>July 2018 -- Aug 2018</span>
+***Back-end Engineer(Full-time Internship)* | Wuhan, China**
+
+- Developed a C2C web platform for help-yourself Electrocardiogram(or ECG) test based on `spring` and `mysql` that contains 2 roles: doctors and patients.
+- Developed user system, order system and devices management for different roles separately.
+- Developed requests maker to fetch data from ECG self-testing devices based on `okhttp3`.
+
+## Skills
+- Solid experiences in: `Python`, `Java`, `Spring`, `SQL`, `gensim`, `NLTK`, `PyTorch`, `Tensorflow`
+- Solid knowledge in: Algorithms, Data Structures, NLP, CV
+- Language: native in Chinese, proficient in English
